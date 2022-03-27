@@ -1,6 +1,6 @@
-package cloud.autotests.tests;
+package autoone.tests;
 
-import cloud.autotests.helpers.DriverUtils;
+import autoone.helpers.DriverUtils;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class GeneratedTests extends TestBase {
+public class MainPageTests extends TestBase {
     @Test
     @Description("Soon to be implemented by you (or QA.GURU engineers)")
     @DisplayName("UI tests of auto1-group web site")

@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package autoone.config;
 
 import org.aeonbits.owner.Config;
 
